@@ -1,6 +1,6 @@
 # A_Beautiful_Repo
 This is for 22.06.2021 class
-# Ironhack Project - Binary classification with Logistic regression 🏦: 💳:
+# Ironhack Project - Binary classification with Logistic regression 🏦 💳
 by [Josephine Biedermann](https://github.com/JosephineBiedermann) & [Lilla Szulyovszky](https://github.com/lillaszulyovszky), April 2021
 <br/><br/>
 ## Prediciting if a bank customer accepts or declines an offer for a new credit card
