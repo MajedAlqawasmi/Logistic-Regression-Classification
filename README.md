@@ -1,11 +1,11 @@
 # A_Beautiful_Repo
-This is for 22.06.2021 class
-# Ironhack Project - Binary classification with Logistic regression 🏦 💳
-by [Josephine Biedermann](https://github.com/JosephineBiedermann) & [Lilla Szulyovszky](https://github.com/lillaszulyovszky), April 2021
-<br/><br/>
-## Prediciting if a bank customer accepts or declines an offer for a new credit card
 
-![Classification Case Study](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/presentation/Readme_header.png?raw=true)
+# Ironhack Project - Binary classification with Logistic regression 🏦 💳
+by [Majed Alqawasmi](https://github.com/MajedAlqawasmi) June 2021
+<br/><br/>
+## Prediciting loan risk classifiction for each customer 
+
+![Classification Case Study](Presentation_Material/EQS-Blog_Compliance-Risk-Assessment-1-1024x576.jpg)
 
 ## Table of content
 
