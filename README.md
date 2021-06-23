@@ -41,7 +41,7 @@ Our ways of working included an iterative/agile approach circling through the fo
 
 **Tools**
  - **Jupyter:** [notebook](https://github.com/MajedAlqawasmi/A_Beautiful_Repo/blob/main/Logistic_regression_bank_outline.ipynb)
- - **Database:** MyWorkbench - [Link to SQL folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/sql)
+ - **Database:** MyWorkbench
  - **Vizualizations:** seaborn / matplotlib
 
 ## Visualizations
