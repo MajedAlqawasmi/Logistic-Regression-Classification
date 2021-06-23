@@ -40,7 +40,7 @@ Our ways of working included an iterative/agile approach circling through the fo
 **- iteration 4 (X_i4):** encoding numerical features to categorical ones<br/>
 
 **Tools**
- - **Jupyter [notebook](https://github.com/MajedAlqawasmi/A_Beautiful_Repo/blob/main/Logistic_regression_bank_outline.ipynb)
+ - Jupyter [notebook](https://github.com/MajedAlqawasmi/A_Beautiful_Repo/blob/main/Logistic_regression_bank_outline.ipynb)
  - **Database:** MyWorkbench - [Link to SQL folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/sql)
  - **Vizualizations:** seaborn / matplotlib
 
