@@ -9,11 +9,11 @@ by [Majed Alqawasmi](https://github.com/MajedAlqawasmi) June 2021
 
 ## Table of content
 
-- [Lesson](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#Lesson)
-- [Data](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#data)
-- [Process & Tools](https://github.com/lillaszulyovszky/ironhack-case-study-classification#process--tools)
-- [Visualization](https://github.com/lillaszulyovszky/ironhack-case-study-classification#visualizations)
-- [Key Take Aways](https://github.com/lillaszulyovszky/ironhack-case-study-classification#key-take-aways)
+- [Lesson](https://github.com/MajedAlqawasmi/A_Beautiful_Repo/edit/main/README.md#Lesson)
+- [Data](https://github.com/MajedAlqawasmi/A_Beautiful_Repo/edit/main/README.md#data)
+- [Process & Tools](https://github.com/MajedAlqawasmi/A_Beautiful_Repo/edit/main/README.md#process--tools)
+- [Visualization](https://github.com/MajedAlqawasmi/A_Beautiful_Repo/edit/main/README.md#visualizations)
+- [Key Take Aways](https://github.com/MajedAlqawasmi/A_Beautiful_Repo/edit/main/README.md#key-take-aways)
 
 ## Lesson
 Machine learning example to predict loan risk status of customers based on bank data set we have.
