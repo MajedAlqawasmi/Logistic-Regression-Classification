@@ -1,4 +1,4 @@
-# A_Beautiful_Repo
+# Logistic Regression Classification
 
 # Ironhack Project - Binary classification with Logistic regression 🏦 💳
 by [Majed Alqawasmi](https://github.com/MajedAlqawasmi) June 2021
